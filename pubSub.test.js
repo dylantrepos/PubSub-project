@@ -1,4 +1,5 @@
-const pubSub = require('./pubSub.js');
+import {jest} from '@jest/globals'
+import {pubSub} from './pubSub.js';
 
 test('Someone subscribe to an event', () => {
     pubSub.subscribe('addName', () => (true));

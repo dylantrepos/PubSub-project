@@ -1,4 +1,5 @@
-import { pubSub } from "./pubSub.js";
+
+import {pubSub} from "./pubSub.js";
 
 export const stats = {
 
