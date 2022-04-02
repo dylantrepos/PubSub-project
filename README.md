@@ -1,4 +1,3 @@
-# PubSub-project
 <h1>Creation of a publish/subscribe application with JavaScript Vanilla.</h1>
 
 <h2>Goals</h2>
