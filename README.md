@@ -1,5 +1,7 @@
 <h1>Creation of a publish/subscribe application with JavaScript Vanilla.</h1>
 
+> Disclaimer : If you try this project, use the debugger in your web browser to see the Pub/Sub in action. 
+
 <h2>Goals</h2>
 <p>Publish listeners with callbacks, and allow function to listen to a listener.</p>
 <h2>Tech used</h2>
